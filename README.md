@@ -4,10 +4,6 @@
 
 ---
 
-## 📸 Preview
-
-![TravelIndia Preview](images/travelIndia.png)
-
 ---
 
 ## ✨ Features
